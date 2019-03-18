@@ -444,10 +444,7 @@ animation: gradient-animation 4s infinite alternate;
     display: -webkit-flex; }
 @media (max-width: 767px) {
   .menu .navbar-collapse {
-    max-height: 60vh;
-    overflow: hidden; }
-    .menu .navbar-collapse:hover {
-      overflow: auto; } }
+    max-height: 60vh; } }
 @media (min-width: 768px) and (max-width: 991px) {
   .menu .navbar-toggleable-sm .navbar-nav {
     display: -webkit-box;
